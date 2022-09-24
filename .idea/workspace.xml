@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="AlgorithmsDS" targetName="AlgorithmsDS" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53db82a1-0eaa-4fc6-91f3-9d1d88951cf1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="w9y2h9uk" />
+  </component>
+  <component name="ProjectId" id="1jnK0S0O9OkS4ysa9CoR8xv8Q36" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlgorithmsDS" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AlgorithmsDS" TARGET_NAME="AlgorithmsDS" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AlgorithmsDS" RUN_TARGET_NAME="AlgorithmsDS">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53db82a1-0eaa-4fc6-91f3-9d1d88951cf1" name="Default Changelist" comment="" />
+      <created>1604434193935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604434193935</updated>
+      <workItem from="1604434195273" duration="297000" />
+      <workItem from="1604434702155" duration="42000" />
+      <workItem from="1604434819928" duration="31000" />
+      <workItem from="1604434900813" duration="18000" />
+      <workItem from="1604434963422" duration="85000" />
+      <workItem from="1604435096227" duration="20000" />
+      <workItem from="1604435194159" duration="30000" />
+      <workItem from="1604435268943" duration="36000" />
+      <workItem from="1604439010972" duration="95000" />
+      <workItem from="1604504910706" duration="12000" />
+      <workItem from="1604514817562" duration="750000" />
+      <workItem from="1605284432049" duration="702000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1858" height="462" key="GridCell.Tab.0.bottom" timestamp="1605285267280">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="462" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605285267280" />
+    <state width="1858" height="462" key="GridCell.Tab.0.center" timestamp="1605285267279">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="462" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605285267279" />
+    <state width="1858" height="462" key="GridCell.Tab.0.left" timestamp="1605285267279">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="462" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605285267279" />
+    <state width="1858" height="462" key="GridCell.Tab.0.right" timestamp="1605285267280">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="462" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605285267280" />
+    <state x="234" y="4" key="SettingsEditor" timestamp="1604435221443">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="234" y="4" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1604435221443" />
+  </component>
+</project>
